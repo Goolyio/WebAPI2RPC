@@ -12,3 +12,8 @@ A lightweight highly abstracted extension that creates a gRPC web API from a nor
 
 ## Optional extras:
 1.	Swashbuckle integration
+
+## Useful links
+* The reverse of what I would like to do (gRPC --> REST) https://github.com/aspnet/AspLabs/tree/master/src/GrpcHttpApi
+* gRPC IO state of gRPC web - https://grpc.io/blog/state-of-grpc-web/
+* gRPC for .NET - https://github.com/grpc/grpc-dotnet
