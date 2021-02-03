@@ -17,3 +17,4 @@ A lightweight highly abstracted extension that creates a gRPC web API from a nor
 * The reverse of what I would like to do (gRPC --> REST) https://github.com/aspnet/AspLabs/tree/master/src/GrpcHttpApi
 * gRPC IO state of gRPC web - https://grpc.io/blog/state-of-grpc-web/
 * gRPC for .NET - https://github.com/grpc/grpc-dotnet
+* gRPC gateway https://github.com/grpc-ecosystem/grpc-gateway. This is the standard for felxability between REST and gRPC as it allows the front end to hit the gateway as HTTP 1.x and pass JSON but the backend can consome it as a protocol buffer
