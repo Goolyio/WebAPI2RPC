@@ -1,6 +1,4 @@
 # WebAPI2RPC
-
-## Intro:
 A lightweight highly abstracted extension that creates a gRPC web API from a normal .NET API controller. This gRPC API will hook into existing controllers rather than services.
 
 ## Requirements:
